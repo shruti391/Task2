@@ -1,4 +1,10 @@
 # Task2
+Name: Shruti Singh
+Company: Codtech IT Solutions 
+ID: CT08DS5816
+Duration: August 1st to September 1st
+Mentor: Neela Santosh Kumar
+
 Creating a quiz using HTML, CSS, and JavaScript
 <!DOCTYPE html>
 <html lang="en">
